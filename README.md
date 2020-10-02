@@ -1,4 +1,4 @@
-creating_apps_in_kivy
+creating apps in kivy
 =====================
 
 This is the example code than accompanies Creating Apps in Kivy by Dusty Phillips (9781491946671). 
